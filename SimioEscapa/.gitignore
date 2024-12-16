@@ -1,0 +1,7 @@
+Library/
+Log/
+Temp/
+Obj/
+*slm
+*csproj
+*.pidb.meta
